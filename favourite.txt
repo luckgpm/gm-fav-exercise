@@ -1,9 +1,4 @@
-this is for food adding
 roti
 sabji
-
-this is movies
-kuch kuch
-dil 
-love
+aloo
 
